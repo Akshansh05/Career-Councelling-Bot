@@ -1,0 +1,35 @@
+[
+  {
+    "id": "33ec420f-4f4e-469a-8b97-93ac022c63ad",
+    "data": [
+      {
+        "text": "Consortium of Medical, Engineering and Dental Colleges",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aac65abf-9e80-4142-be88-fd54a6db949f",
+    "data": [
+      {
+        "text": "karnataka colleges",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c9fa377-1b06-4749-8065-76de3a62bd86",
+    "data": [
+      {
+        "text": "comedk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

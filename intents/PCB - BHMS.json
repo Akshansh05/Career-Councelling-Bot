@@ -1,0 +1,38 @@
+{
+  "id": "b7cf12a7-4b78-4819-8e5c-201fc4fc69a9",
+  "parentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "rootParentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "name": "PCB - BHMS",
+  "auto": true,
+  "contexts": [
+    "PCB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCB.PCB-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "BHMS or Bachelor of Homeopathic Medicine and Surgery  is an undergraduate academic degree course which covers medical knowledge of the homeopathic system. BHMS course is of 5½ year duration which includes an internship. The course can be pursued after completion of 10+2 level of education with 50% marks in aggregate. Admission to the program is based on entrance exams like NEET, KEAM etc. For more information about the colleges providing the course, you can visit- https://collegedunia.com/courses/bachelor-of-homeopathic-medicine-and-surgery-bhms"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551082070,
+  "fallbackIntent": false,
+  "events": []
+}

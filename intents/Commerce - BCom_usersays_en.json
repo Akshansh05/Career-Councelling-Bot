@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a15bba2d-04ae-4170-a7ae-2aa982871116",
+    "data": [
+      {
+        "text": "B Com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "223f2b51-3e86-4425-bd98-29fd72599a0c",
+    "data": [
+      {
+        "text": "BCom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d839f917-272b-4037-9a91-00a120fbd8de",
+    "data": [
+      {
+        "text": "Bachelor Of Commerce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95252480-4049-429b-bd2f-9002e2d0068e",
+    "data": [
+      {
+        "text": "B.com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

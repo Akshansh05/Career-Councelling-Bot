@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0f08aea2-6097-4555-9c9b-ca107a253e04",
+    "data": [
+      {
+        "text": "Commerce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82da0ab9-9d24-41c8-a20a-b080b4205952",
+    "data": [
+      {
+        "text": "BCom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d5bfd8e-01e7-4a81-b95a-34d055c9f001",
+    "data": [
+      {
+        "text": "b.com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "9a446d10-7b32-4613-9cde-596d22d39981",
+    "data": [
+      {
+        "text": "Bachelor of commerce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe8afc5b-ccd0-4ff5-931d-90311f3615c2",
+    "data": [
+      {
+        "text": "B,com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e1f2022-ffc5-4ac5-93eb-6bda6c5655e9",
+    "data": [
+      {
+        "text": "bachelors in ",
+        "userDefined": false
+      },
+      {
+        "text": "commerce",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

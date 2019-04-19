@@ -1,0 +1,38 @@
+{
+  "id": "117a8a90-12e5-48ce-920e-9c4d6c126204",
+  "parentId": "0a39a0d3-e610-49bc-87e4-f18ef13cc116",
+  "rootParentId": "0a39a0d3-e610-49bc-87e4-f18ef13cc116",
+  "name": "Arts -Event Management",
+  "auto": true,
+  "contexts": [
+    "Arts-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Arts.Arts-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can create a live event every year of the course and work with creative practitioners and external clients. We aim to create innovative, capable and creative professionals with practical skills and critical minds, able to flourish in the diverse landscape that is the creative and cultural industries.For more information about the course you can visit-https://www.indeed.com/q-Cultural-Arts-Event-Manager-jobs.html"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551159369,
+  "fallbackIntent": false,
+  "events": []
+}

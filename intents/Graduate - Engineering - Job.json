@@ -1,0 +1,38 @@
+{
+  "id": "a86568c1-ba49-446c-b844-1941fd7cc995",
+  "parentId": "0cc23592-b65d-40ab-983b-667083e87148",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Engineering - Job",
+  "auto": true,
+  "contexts": [
+    "Graduate-Engineering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Engineering-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jobs with proper skill sets can be found on various websites  like-  https://www.naukri.com/engineering-jobs                                                                                               www.indeed.com /engineering-jobs                                                                                                                         www.linkedin.com/engineering"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1554921576823,
+  "fallbackIntent": false,
+  "events": []
+}

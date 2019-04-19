@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bc148839-62f8-46c6-9b5e-c199a39a266b",
+    "data": [
+      {
+        "text": "Lawyer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "343fbcbc-eb5a-47ae-abe9-7fe621caa261",
+    "data": [
+      {
+        "text": "law",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99247277-f610-4e08-9d21-fbdd9429d473",
+    "data": [
+      {
+        "text": "L.L.B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb26abd2-d1dc-4159-9921-01bc0a412411",
+    "data": [
+      {
+        "text": "L.L.B.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98de8a62-3eec-4a72-843d-7ce9b6713fe6",
+    "data": [
+      {
+        "text": "LLB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

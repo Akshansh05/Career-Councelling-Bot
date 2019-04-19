@@ -1,0 +1,38 @@
+{
+  "id": "a9014c19-acc1-48e6-9789-ee02d24427d3",
+  "parentId": "676abab2-344b-4b7b-9715-e95a9df6340d",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - LLB -LLM",
+  "auto": true,
+  "contexts": [
+    "Graduate-LLB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-LLB-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Masters degrees in Law focus on the advanced study of legal theory and practice. They include academic LLM (Master of Laws) degrees as well as professional training and preparation courses. ... Instead they offer the chance to specialise in a given area such as Contract Law, Criminal Law or Property Law. For information about colleges providing the degree  you can visit-https://llm-guide.com/"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244850310,
+  "fallbackIntent": false,
+  "events": []
+}

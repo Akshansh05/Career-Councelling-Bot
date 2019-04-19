@@ -1,0 +1,57 @@
+[
+  {
+    "id": "6d12cb31-18b2-41d4-b57d-6df291dc3206",
+    "data": [
+      {
+        "text": "mbbs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb75a1fb-04c3-4d7a-8431-7dc0d7640935",
+    "data": [
+      {
+        "text": "Doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1b45860-ab27-4754-949e-58f6c9ae3057",
+    "data": [
+      {
+        "text": "Medical",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b39da511-3b3c-49be-8010-c043c094cb34",
+    "data": [
+      {
+        "text": "Medicine and science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71623aec-5e0d-4cf0-ba2a-74be4d5eb214",
+    "data": [
+      {
+        "text": "M.B.B.S",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

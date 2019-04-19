@@ -1,0 +1,38 @@
+{
+  "id": "2604ede2-0a51-4500-b6dd-9d5035391524",
+  "parentId": "62b8d730-13a0-4cd6-903a-c0469e534154",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.A. - M.A",
+  "auto": true,
+  "contexts": [
+    "Graduate-BA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BA-custom-5",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Master\u0027s Degrees. A graduate, advanced or master\u0027s degree is the next step. A Master of Arts (M.A.) or a Master of Science (M.S.) degree usually takes about two additional years to earn, and it often requires students to perform original research and write a thesis.You can go to the website for college information providing the degree -                    https://collegedunia.com/courses/master-of-arts-ma"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244798751,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "beacdbde-42da-4eba-9da7-bc14d57ea111",
+  "parentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "rootParentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "name": "PCB - Ayurvedic(BAMS)",
+  "auto": true,
+  "contexts": [
+    "PCB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCB.PCB-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bachelor of Ayurveda, Medicine is a graduate degree awarded after the successful completion of a five and a half years long program that covers the study of the integrated system of modern medicine and traditional Ayurveda. For more information about the colleges providing the course, you can visit- https://collegedunia.com/courses/bachelor-of-ayurvedic-medical-sciences-bams"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551082031,
+  "fallbackIntent": false,
+  "events": []
+}

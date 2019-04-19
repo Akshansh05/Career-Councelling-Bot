@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c11a7666-01ac-4542-8cca-d50187e260f0",
+    "data": [
+      {
+        "text": "p.h.d",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d016778a-fcf9-442a-83bd-084b0cdf00ac",
+    "data": [
+      {
+        "text": "phd.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a095f6de-b744-469b-b91b-61bc9bb38ce8",
+    "data": [
+      {
+        "text": "Doctor of Philosophy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51dfb8d5-136b-4298-9649-2a402b774b57",
+    "data": [
+      {
+        "text": "phd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7070401-46e2-4e34-891a-6e6832b7cff6",
+    "data": [
+      {
+        "text": "ph.d",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

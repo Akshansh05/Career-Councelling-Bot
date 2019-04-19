@@ -1,0 +1,38 @@
+{
+  "id": "7e927a0a-bb19-4071-9527-725355729152",
+  "parentId": "0a39a0d3-e610-49bc-87e4-f18ef13cc116",
+  "rootParentId": "0a39a0d3-e610-49bc-87e4-f18ef13cc116",
+  "name": "Arts - Hotel Management",
+  "auto": true,
+  "contexts": [
+    "Arts-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Arts.Arts-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hotel/ Hospitality Management as a field requires aspirants to possess good communication skills as well as an impressive personality. Due to globalization, the hotel/ hospitality management industry is known to grow with leaps and bounds. Each year, a lot of hospitality related jobs are injected in the economy. These jobs are offered not only by Indian firms but also by international hotel chains. Thus, Hotel/ Hospitality Management is a fruitful field to make a career in. For more information about the colleges providing the course, you can visit- https://www.shiksha.com/hospitality-travel/hotel-hospitality-management-chp"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551159335,
+  "fallbackIntent": false,
+  "events": []
+}

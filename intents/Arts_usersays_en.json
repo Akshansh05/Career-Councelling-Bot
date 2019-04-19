@@ -1,0 +1,25 @@
+[
+  {
+    "id": "24e178ab-712a-421c-9722-d70b1aac484b",
+    "data": [
+      {
+        "text": "Art",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33a251cd-e636-44de-b13d-27f9adf9f010",
+    "data": [
+      {
+        "text": "Arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551033513
+  }
+]

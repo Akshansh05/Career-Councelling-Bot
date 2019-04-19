@@ -1,0 +1,38 @@
+{
+  "id": "8622d7c0-5e89-45e0-8c6f-cad143f6300b",
+  "parentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "rootParentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "name": "Commerce - B Economy",
+  "auto": true,
+  "contexts": [
+    "Commerce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Commerce.Commerce-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The B Economy is built by everyone who works for, buys from, invests in, learns or teaches about, or supports businesses striving to create a shared and durable prosperity for all. For more information about the colleges providing the course, you can visit- https://targetstudy.com/courses/becon.html"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551082109,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ea5c940f-db5b-4a7b-9b96-ed50ced9d3ea",
+  "parentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - BCA",
+  "auto": true,
+  "contexts": [
+    "Graduate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom",
+      "affectedContexts": [
+        {
+          "name": "Graduate-BCA-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can either go for jobs  or higher studies like MCA,PhD,MBA"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1554916900678,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "786c5007-d31a-43b6-889b-4ac7d814c316",
+    "data": [
+      {
+        "text": "bio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550992952
+  },
+  {
+    "id": "1f69221b-b406-4b64-b8ea-bc0961a97477",
+    "data": [
+      {
+        "text": "p,c,b",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550992952
+  },
+  {
+    "id": "b2806e22-71a8-4597-87e0-7df6c8ffbf23",
+    "data": [
+      {
+        "text": "pcb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550992952
+  },
+  {
+    "id": "f53a4cae-db12-4c95-8670-db07553035f2",
+    "data": [
+      {
+        "text": "biology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550992952
+  },
+  {
+    "id": "5d1097d1-e925-465a-a203-cca93aa88c1e",
+    "data": [
+      {
+        "text": "phy,chem,bio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550992952
+  },
+  {
+    "id": "9fac40a7-770e-4945-b5e2-f33c3c602f82",
+    "data": [
+      {
+        "text": "physics,chemistry",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": ",biology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1550992952
+  }
+]

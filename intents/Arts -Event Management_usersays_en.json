@@ -1,0 +1,90 @@
+[
+  {
+    "id": "a5b61d14-72d8-4358-8ab1-c41cccf3bf88",
+    "data": [
+      {
+        "text": "E M",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e15ed724-4916-45b6-ac2f-a7ac83310e5f",
+    "data": [
+      {
+        "text": "Event management",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4bde6a37-29d3-40e7-90dc-c7f889e8c2eb",
+    "data": [
+      {
+        "text": "Eve Mgmt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb6735d4-feb2-4dec-babc-9377f5e06ff4",
+    "data": [
+      {
+        "text": "EM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92acbaac-e431-4cf0-97bb-f013ecca81ec",
+    "data": [
+      {
+        "text": "E.M.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f26ec081-8f7c-40b8-800e-6cd7dd4033ef",
+    "data": [
+      {
+        "text": "E.M",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9980d4f6-1f90-4f04-b1a8-05ad3f5337a5",
+    "data": [
+      {
+        "text": "Event Mgmt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "260503d9-9ee6-4b64-a034-c09fd5b77375",
+    "data": [
+      {
+        "text": "Event mgmt.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

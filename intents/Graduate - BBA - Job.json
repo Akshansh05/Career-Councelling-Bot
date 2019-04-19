@@ -1,0 +1,38 @@
+{
+  "id": "a1d7d466-b8a8-43a2-ba09-b844c93d8b52",
+  "parentId": "ad610eab-1826-4730-a348-954a553fcfd2",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - BBA - Job",
+  "auto": true,
+  "contexts": [
+    "Graduate-BBA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BBA-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jobs with proper skill sets can be found on various websites  like-  https://www.indeed.co.in/Bba-jobs                                                                                                     https://www.naukri.com/bba-jobs"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247033044,
+  "fallbackIntent": false,
+  "events": []
+}

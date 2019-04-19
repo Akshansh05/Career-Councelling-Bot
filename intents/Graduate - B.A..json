@@ -1,0 +1,44 @@
+{
+  "id": "62b8d730-13a0-4cd6-903a-c0469e534154",
+  "parentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.A.",
+  "auto": true,
+  "contexts": [
+    "Graduate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom",
+      "affectedContexts": [
+        {
+          "name": "Graduate-BA-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can go for jobs or higher studies like MBA, B.Ed,MA,LLB,Phd"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1554916667985,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "aa4cc475-7d83-40fd-a1ce-5ce571beedde",
+  "parentId": "676abab2-344b-4b7b-9715-e95a9df6340d",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - LLB -JOB",
+  "auto": true,
+  "contexts": [
+    "Graduate-LLB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-LLB-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jobs with proper skill sets can be found on various websites  like-  https://www.naukri.com/llb-jobs                                                                                                               https://www.fresherslive.com/search-jobs/llb"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244838062,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "acdd5664-38f3-447f-a8bc-f77444c9fc27",
+    "data": [
+      {
+        "text": "B.A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec702ada-0319-497a-937d-9207fad0c7bc",
+    "data": [
+      {
+        "text": "Bachelor ",
+        "userDefined": false
+      },
+      {
+        "text": "Art",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db6ad590-2adb-4fee-9045-9c8128708dcc",
+    "data": [
+      {
+        "text": "Bachelor Of ",
+        "userDefined": false
+      },
+      {
+        "text": "Art",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f0fb2fe-5a5d-409f-9639-1b92783adb0d",
+    "data": [
+      {
+        "text": "B A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1130a366-4ad9-4e3a-bdff-722c3d8f5b5e",
+    "data": [
+      {
+        "text": "Bahelor Arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac39d736-4c4d-4099-b3ff-8db0c47d2355",
+    "data": [
+      {
+        "text": "B.A.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd8d3091-961b-4dd6-bca0-5ab12cc0cdb2",
+    "data": [
+      {
+        "text": "Bachelor of Arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f90fb220-4b72-4386-bf04-5a860ba65d5d",
+    "data": [
+      {
+        "text": "BA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

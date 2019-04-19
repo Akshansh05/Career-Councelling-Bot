@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1dec8af6-255f-4677-83dc-2e094dc290cf",
+    "data": [
+      {
+        "text": "Bsc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00758d26-6d34-4b22-a7bd-38210c165302",
+    "data": [
+      {
+        "text": "Bach Science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fc8df20-5b28-45d6-adf8-82df7d0d727f",
+    "data": [
+      {
+        "text": "Bachelor of Science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8bc63091-ca36-488d-911c-62b09b874ed9",
+    "data": [
+      {
+        "text": "Bsc.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "824c1326-c5ff-43ee-83a9-82e85112de02",
+    "data": [
+      {
+        "text": "Science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

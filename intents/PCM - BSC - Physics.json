@@ -1,0 +1,38 @@
+{
+  "id": "91e5eeb6-4e68-4ebe-8ba4-6f5929e6195e",
+  "parentId": "fe71ee7c-f6e7-42df-b4f9-3e069be4be42",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - BSC - Physics",
+  "auto": true,
+  "contexts": [
+    "PCM-BSC-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-BSC-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can check the following link:   https://www.shiksha.com/science/colleges/b-sc-physics-colleges-india"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551607980,
+  "fallbackIntent": false,
+  "events": []
+}

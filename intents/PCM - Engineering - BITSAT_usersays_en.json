@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9c63de33-b2b8-42db-a792-0efef7ee98ae",
+    "data": [
+      {
+        "text": "Birla Institute of Technology and Science Admission Test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2bb626ca-1b62-4a80-af42-417c8208072d",
+    "data": [
+      {
+        "text": "b.i.t.s.a.t.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5813c0ab-7bde-4c74-b34b-0d053102b640",
+    "data": [
+      {
+        "text": "b.i.t.s.a.t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f2a9065-1710-4989-be15-6d70188f094d",
+    "data": [
+      {
+        "text": "bit.",
+        "userDefined": false
+      },
+      {
+        "text": "sat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a74854e-7847-41f7-a857-347d04f188f7",
+    "data": [
+      {
+        "text": "bitsat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

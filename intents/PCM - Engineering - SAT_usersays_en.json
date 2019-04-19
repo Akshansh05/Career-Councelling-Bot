@@ -1,0 +1,47 @@
+[
+  {
+    "id": "8d944205-da70-47a1-99f7-81e96e1430f5",
+    "data": [
+      {
+        "text": "Scholastic Assessment Test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ef18676-f3fd-4890-961c-bd4e33d22d82",
+    "data": [
+      {
+        "text": "s.a.t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5b517d3-7f75-438a-937c-c151e905ff1f",
+    "data": [
+      {
+        "text": "s.a.t.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9401d145-ca43-44b2-9c4a-ff3bc81685ae",
+    "data": [
+      {
+        "text": "sat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "e33d5e63-0baa-456e-84b2-c07c584683da",
+  "parentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "rootParentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "name": "PCB -BDS",
+  "auto": true,
+  "contexts": [
+    "PCB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCB.PCB-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bachelor of Dental Surgery or BDS course is an undergraduate course in the field of dentistry. This course helps an aspirant to become a dentist.\n\nThe duration of BDS degree ranges from 3 years to 5 years. The variation in duration is due to necessity of an internship or a lack thereof. The course can be pursued either in full time mode or in part time mode through correspondence. For more information about the colleges providing the course, you can visit- https://collegedunia.com/courses/bachelor-of-dental-surgery-bds"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081695,
+  "fallbackIntent": false,
+  "events": []
+}

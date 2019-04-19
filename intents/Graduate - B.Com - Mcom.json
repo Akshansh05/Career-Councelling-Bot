@@ -1,0 +1,38 @@
+{
+  "id": "11e39b92-2651-4a01-b32a-8b8212cb568b",
+  "parentId": "8ea779c1-33ba-4f49-91f0-b02e612a5754",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.Com - Mcom",
+  "auto": true,
+  "contexts": [
+    "Graduate-BCom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BCom-custom-5",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Masters of Commerce or MCom is a post graduate level course ideal for candidates who wish to make a career in banking financial services and insurance (BFSI) as well as accounting and commerce sectors. The 2-year course delves deeper into the functioning of the economy, capital, revenue, trade, taxes, etc. taught in BCom. For more information about the colleges providind the degree you can visit - https://www.shiksha.com/m-com-chp"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244903333,
+  "fallbackIntent": false,
+  "events": []
+}

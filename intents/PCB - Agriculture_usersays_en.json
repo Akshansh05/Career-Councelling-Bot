@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c19e5554-6021-4cbc-835b-5983f91faee1",
+    "data": [
+      {
+        "text": "Agri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "553e0787-41b1-419c-9a7b-a5dc361979b2",
+    "data": [
+      {
+        "text": "Agriculture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a69ca7c-c487-4aea-ba3e-f99d48c04207",
+    "data": [
+      {
+        "text": "Agro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

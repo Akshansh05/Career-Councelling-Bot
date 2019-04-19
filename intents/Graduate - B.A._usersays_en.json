@@ -1,0 +1,96 @@
+[
+  {
+    "id": "6b8e3cf0-0a63-4043-a15b-0c128fa63eb9",
+    "data": [
+      {
+        "text": "B.A.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10637430-6316-4830-8718-0207a99545f4",
+    "data": [
+      {
+        "text": "B.A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cae0bcc5-d7ac-4f45-92ff-d5ea2c0d7392",
+    "data": [
+      {
+        "text": "art",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef481505-795b-4ab9-8e37-f8051bb512fb",
+    "data": [
+      {
+        "text": "Bachelor Arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "287fe5da-b628-4275-a6a0-318821140ec5",
+    "data": [
+      {
+        "text": "Bach. Arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe94b2ca-0459-47fe-b4cc-c67452570cbd",
+    "data": [
+      {
+        "text": "Arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "041cbdfd-1a23-4799-8deb-3c6b1223fc03",
+    "data": [
+      {
+        "text": "Bachelor ",
+        "userDefined": false
+      },
+      {
+        "text": "Art",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "028bda41-843f-4679-bd75-3644f9f64cad",
+    "data": [
+      {
+        "text": "Bachelor of Arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

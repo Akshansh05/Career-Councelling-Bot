@@ -1,0 +1,68 @@
+[
+  {
+    "id": "6f9dccec-968c-43a9-ba17-f06e30b8582c",
+    "data": [
+      {
+        "text": "Doctor of Medicines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "784d78af-2c3b-436b-86d8-7a1a2f48a6bc",
+    "data": [
+      {
+        "text": "Doctor in Medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "689c535c-2a26-4211-84c1-f6e781b5501b",
+    "data": [
+      {
+        "text": "Doctor of Medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f178715b-bacd-4f39-b1ad-c857d359f80b",
+    "data": [
+      {
+        "text": "MD.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0878245-9520-4d90-9595-2395f61d4056",
+    "data": [
+      {
+        "text": "M.D.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afef514a-20b4-47f7-ab8b-722fb30cb62c",
+    "data": [
+      {
+        "text": "MD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

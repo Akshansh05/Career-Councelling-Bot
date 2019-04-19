@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6f7e5ec5-a919-4f35-8955-139ffb0a72b8",
+    "data": [
+      {
+        "text": "mtech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4
+  },
+  {
+    "id": "b1eb6e98-d8cc-444c-8151-258aa9728aaf",
+    "data": [
+      {
+        "text": "Master of Technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc6f87c5-9887-4c51-9b39-7cf3582925c3",
+    "data": [
+      {
+        "text": "Mtech.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a247e4bd-2de0-44d3-b71f-32f187c575a8",
+    "data": [
+      {
+        "text": "Masters in Technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

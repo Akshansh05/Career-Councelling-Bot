@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0ee5de1e-f245-4751-a31f-411425f4c988",
+    "data": [
+      {
+        "text": "Bachelors in computer applications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15beae7b-9362-4614-9b21-9643df8759ce",
+    "data": [
+      {
+        "text": "computer application",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11ed908f-3b97-4179-bd37-296e93e8169e",
+    "data": [
+      {
+        "text": "BCA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3725f837-e553-4ed5-9746-6130e893931d",
+    "data": [
+      {
+        "text": "Bachelor in computer application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "9cc671b0-3e9f-435c-802f-5c1d8538a304",
+  "parentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "rootParentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "name": "PCB - Agriculture",
+  "auto": true,
+  "contexts": [
+    "PCB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCB.PCB-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Agriculture courses train students in agricultural science and its allied areas. The training is all about applying concepts of science, technology, chemistry and biology to boost agricultural productivity. For more information about the colleges providing the course, you can visit- https://collegedunia.com/courses/agriculture"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081789,
+  "fallbackIntent": false,
+  "events": []
+}

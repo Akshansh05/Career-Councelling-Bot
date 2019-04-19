@@ -1,0 +1,46 @@
+[
+  {
+    "id": "05ea7a1e-cb00-4207-b9dd-c10ce9a06680",
+    "data": [
+      {
+        "text": "own hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ae435d7-ed95-466f-836c-d50b54cde146",
+    "data": [
+      {
+        "text": "own clinic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "695c46d1-a4bb-48f7-bb8c-90ce6e43ebde",
+    "data": [
+      {
+        "text": "own work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "372dee0a-7734-40b6-9e24-d6370bb8ec88",
+    "data": [
+      {
+        "text": "practice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

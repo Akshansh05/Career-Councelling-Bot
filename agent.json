@@ -1,0 +1,70 @@
+{
+  "description": "",
+  "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "career-bot-f85f4",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "0a39a0d3-e610-49bc-87e4-f18ef13cc116",
+        "signInRequired": false
+      },
+      {
+        "intentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "81ea5d50-04f3-4560-b2d5-7fd567651ecc",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a99eace9-3f88-467b-973e-9d46e3078cf7",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Colombo",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "hi"
+  ],
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false
+}

@@ -1,0 +1,44 @@
+{
+  "id": "676abab2-344b-4b7b-9715-e95a9df6340d",
+  "parentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - LLB",
+  "auto": true,
+  "contexts": [
+    "Graduate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom",
+      "affectedContexts": [
+        {
+          "name": "Graduate-LLB-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can either go for law in Courts or higher studies like DTL ,DLL,LLM"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1554916940517,
+  "fallbackIntent": false,
+  "events": []
+}

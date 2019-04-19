@@ -1,0 +1,44 @@
+{
+  "id": "1cb3db35-fcec-4834-8769-8f7a6c56e7cf",
+  "parentId": "466178db-f932-451b-9e0c-dcb91843341f",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Architecture - NATA",
+  "auto": true,
+  "contexts": [
+    "PCM-Architecture-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Architecture-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Architecture-NATA-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The National Aptitude Test in Architecture (NATA), is conducted by National Institute of Advanced Studies in Architecture (NIASA) which is a body of Council of Architecture, New Delhi in India. The National Aptitude Test in Architecture is a national level examination for admission to undergraduate courses in Architecture. NATA or the AIEEE B.Arch exam are prescribed by the Council of Architecture as a compulsory criterion for taking admission to any Architectural College or course in India.  For more information about the colleges providing the course, you can visit- https://www.embibe.com/exams/nata-colleges/"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551606501,
+  "fallbackIntent": false,
+  "events": []
+}

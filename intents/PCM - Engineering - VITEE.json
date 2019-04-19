@@ -1,0 +1,44 @@
+{
+  "id": "963f51fc-1688-43da-a149-648c55e57ee3",
+  "parentId": "5bef7998-3542-411e-933c-d5ffdda8a335",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering - VITEE",
+  "auto": true,
+  "contexts": [
+    "PCM-Engineering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Engineering-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Engineering-VITEE-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "VIT was ranked 801-1000 in the world by the Times Higher Education World University Rankings of 2018 and 251-300 in Asia. The QS World University Rankings ranked it 271-280 in Asia in 2018.The National Institutional Ranking Framework (NIRF) ranked VIT 24 overall and 16 among universities in 2018.Among engineering colleges it was ranked 16 by NIRF in 2018, 5th by India Today in 2017 and 9th by Outlook India in 2017. For more information about the colleges providing the course, you can visit- https://engineering.careers360.com/articles/viteee"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551086936,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "f6b1ccd1-1c97-4bfe-b008-ab694cca88bb",
+    "data": [
+      {
+        "text": "work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc17b41c-408b-44c8-8019-f684383f63c2",
+    "data": [
+      {
+        "text": "job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9151d4f-a923-4469-8c27-da6649ae73dc",
+    "data": [
+      {
+        "text": "jobs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7feaca92-b8e6-47ac-8bf2-e6e753b849ce",
+    "data": [
+      {
+        "text": "works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

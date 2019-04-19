@@ -1,0 +1,79 @@
+[
+  {
+    "id": "0bbb3b74-d389-4cdc-8223-88ab95948bcf",
+    "data": [
+      {
+        "text": "masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "commerce",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24fdc61c-3180-4d8d-b3aa-69f03903ab38",
+    "data": [
+      {
+        "text": "master in ",
+        "userDefined": false
+      },
+      {
+        "text": "commerce",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b56b5442-482d-4c0a-932f-bd8faebd930b",
+    "data": [
+      {
+        "text": "masters of commerce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4443160d-7b57-448c-af90-83a82bb7d1f8",
+    "data": [
+      {
+        "text": "master of commerce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "457a2f7f-e74b-4545-9ac9-224ec75ffd36",
+    "data": [
+      {
+        "text": "M.com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09d8f1e4-04fd-4e06-b0ac-9af972923d89",
+    "data": [
+      {
+        "text": "Mcom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

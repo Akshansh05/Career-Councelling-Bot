@@ -1,0 +1,38 @@
+{
+  "id": "25578889-d6f3-4ee8-b7f0-ac07077283ab",
+  "parentId": "f9b7626c-712f-4448-b3f8-829e6db8ef7a",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Teaching - Job",
+  "auto": true,
+  "contexts": [
+    "Graduate-Teaching-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Teaching-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jobs with proper skill sets can be found on various websites  like-  https://www.indeed.co.in/Teacher-jobs                                                                                                     https://www.naukri.com/teaching-jobs"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247400518,
+  "fallbackIntent": false,
+  "events": []
+}

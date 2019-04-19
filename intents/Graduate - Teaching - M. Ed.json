@@ -1,0 +1,38 @@
+{
+  "id": "6145004e-08ab-404b-82dd-9e8d5beb1b22",
+  "parentId": "f9b7626c-712f-4448-b3f8-829e6db8ef7a",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Teaching - M. Ed",
+  "auto": true,
+  "contexts": [
+    "Graduate-Teaching-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Teaching-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Master of Education or M.Ed. is a Postgraduate course which deals with the methodology of educational research and experimentation of new techniques of teaching. This course particularly introduces you to new levels of teaching processes. Students who have successfully qualified there bachelors of education (B.Ed) from a recognized institution are eligible to apply.For more information about colleges providing the degree you can visit -https://collegedunia.com/courses/master-of-education-med"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247394166,
+  "fallbackIntent": false,
+  "events": []
+}

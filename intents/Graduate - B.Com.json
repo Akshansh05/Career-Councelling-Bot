@@ -1,0 +1,44 @@
+{
+  "id": "8ea779c1-33ba-4f49-91f0-b02e612a5754",
+  "parentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.Com",
+  "auto": true,
+  "contexts": [
+    "Graduate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom",
+      "affectedContexts": [
+        {
+          "name": "Graduate-BCom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can either go for jobs or higher studies like M.com. ,MBA, LLB,PhD"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1554916796241,
+  "fallbackIntent": false,
+  "events": []
+}

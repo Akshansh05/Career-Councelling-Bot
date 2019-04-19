@@ -1,0 +1,38 @@
+{
+  "id": "41a9cf71-1a2c-4d98-8137-ba763122b832",
+  "parentId": "62b8d730-13a0-4cd6-903a-c0469e534154",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.A. - Phd",
+  "auto": true,
+  "contexts": [
+    "Graduate-BA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BA-custom-6",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Doctoral Degree. Ph.D. is an abbreviation for \"Doctor of Philosophy,\" commonly called a doctoral degree. It is typically the highest academic degree awarded and requires at least four years of study and extensive original research.For information about colleges providing the degree you can visit - https://www.findaphd.com/study-abroad/asia/phd-study-in-india.aspx"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244804714,
+  "fallbackIntent": false,
+  "events": []
+}

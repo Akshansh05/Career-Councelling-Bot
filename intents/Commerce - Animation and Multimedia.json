@@ -1,0 +1,38 @@
+{
+  "id": "bb4955c6-6ab8-4ed2-ae04-8f0572f577db",
+  "parentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "rootParentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "name": "Commerce - Animation and Multimedia",
+  "auto": true,
+  "contexts": [
+    "Commerce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Commerce.Commerce-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fast gaining popularity among the masses, Multimedia and Animation are the fields wherein maximum people are planning to make a career for themselves                                    The duration of animation courses offered at different animation colleges range from six months to two years. Interested candidates can pursue a 2D or 3D animation course. However, going by the trend these days it is advisable that one pursues a 3D animation course only. For more information about the colleges providing the course, you can visit- https://www.shiksha.com/animation/2d-3d-animation/articles/top-10-animation-colleges-in-india-blogId-10898"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551082150,
+  "fallbackIntent": false,
+  "events": []
+}

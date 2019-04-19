@@ -1,0 +1,38 @@
+{
+  "id": "a4c8c376-905a-43eb-9bd5-1fcf82e59846",
+  "parentId": "676abab2-344b-4b7b-9715-e95a9df6340d",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - LLB - DLL",
+  "auto": true,
+  "contexts": [
+    "Graduate-LLB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-LLB-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "DLL is a diploma in Labour Laws. You study all labour laws in this course. In LLB, you study labour laws along with criminal law, civil law, family law, contract law, property transfer law, taxation law, administrative law, company law, environmental law, Law of evidence, Indian constitution and many more. Only four labour laws you study in LLB. For more information on college providing with the course you can visit -http://www.admissionnews.com/PopularCoursesInIndia/LawCourses-Diploma_Labour-1-20-Diploma_in_Labour_Laws_(DLL).aspx"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244843913,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "f28c9a65-4a26-47d6-b22e-04e321ac152b",
+  "parentId": "f2dbcde3-547e-484f-ba6b-11c295a5a54b",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Medical - Job",
+  "auto": true,
+  "contexts": [
+    "Graduate-Medical-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Medical-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can go for various house surgeon-ship jobs ,Government jobs etc. For further information you can visit -https://www.monster.com/career-advice/article/top-10-health-care-jobs-salary"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247365212,
+  "fallbackIntent": false,
+  "events": []
+}

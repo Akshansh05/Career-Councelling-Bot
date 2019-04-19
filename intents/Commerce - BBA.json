@@ -1,0 +1,38 @@
+{
+  "id": "672ac6ca-76f9-4d31-a41d-e6d8450a59aa",
+  "parentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "rootParentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "name": "Commerce - BBA",
+  "auto": true,
+  "contexts": [
+    "Commerce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Commerce.Commerce-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bachelor of Business Administration or BBA is one of the most popular bachelor degree programmes after class XII. The 3-year professional undergraduate course in Business Management is open to students from all the three streams: Science, Arts and Commerce. The BBA course is the gateway to numerous job opportunities in a plethora of sectors like marketing, education, finance, sales, and government to name just a few.  For more information about the colleges providing the course, you can visit- https://www.shiksha.com/bba-bachelor-of-business-administration-chp"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081986,
+  "fallbackIntent": false,
+  "events": []
+}

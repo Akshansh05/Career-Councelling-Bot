@@ -1,0 +1,38 @@
+{
+  "id": "1662ab99-a8b7-44e8-a4da-2835074ce41a",
+  "parentId": "0a39a0d3-e610-49bc-87e4-f18ef13cc116",
+  "rootParentId": "0a39a0d3-e610-49bc-87e4-f18ef13cc116",
+  "name": "Arts - BA",
+  "auto": true,
+  "contexts": [
+    "Arts-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Arts.Arts-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Full form of BA is Bachelor of Arts. BA is an undergraduate course that is usually of three years duration. Candidates can pursue a BA course right after their Class 12. As part of a BA course aspirants need to study five compulsory subjects along with few elective subjects. These subjects vary depending on the discipline selected by candidates.For more information about the college providing the course  you can visit-https://www.shiksha.com/b-a-bachelor-of-arts-chp"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551159262,
+  "fallbackIntent": false,
+  "events": []
+}

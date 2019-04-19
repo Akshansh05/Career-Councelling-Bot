@@ -1,0 +1,38 @@
+{
+  "id": "eebb6b6c-fa5d-4f16-8a00-4f5e62cfc5f5",
+  "parentId": "b7015883-4fcf-4784-9ed0-3b9cd77ab1cb",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.Sc - JOB",
+  "auto": true,
+  "contexts": [
+    "Graduate-BSc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BSc-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jobs with proper skill sets can be found on various websites  like-  https://www.naukri.com/bsc-jobs                                                                                                      https://www.indeed.co.in/Bsc-jobs"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247056676,
+  "fallbackIntent": false,
+  "events": []
+}

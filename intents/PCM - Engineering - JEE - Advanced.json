@@ -1,0 +1,38 @@
+{
+  "id": "7c3f298f-8a20-4300-b27b-f91b4c462fd7",
+  "parentId": "d6a64115-fe71-48fb-99a4-33e607b34801",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering - JEE - Advanced",
+  "auto": true,
+  "contexts": [
+    "PCM-Engineering-JEE-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Engineering-custom.PCM-Engineering-JEE-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Joint Entrance Examination – Advanced, formerly the Indian Institutes of Technology-Joint Entrance Examination, is an academic examination held annually in India. It is conducted by one of the seven zonal IITs under guidance of the Joint Admission Board. For more information about the colleges accepting the score, you can visit- https://collegedunia.com/exams/jee-advanced"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551087118,
+  "fallbackIntent": false,
+  "events": []
+}

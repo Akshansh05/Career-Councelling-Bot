@@ -1,0 +1,57 @@
+[
+  {
+    "id": "a3a35692-a072-4832-b0d6-de5f39bb9f84",
+    "data": [
+      {
+        "text": "M.B.A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fe3fe56-91f7-4e57-8d89-c070dde0c822",
+    "data": [
+      {
+        "text": "M.B.A.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fb89c04-e8ee-41e8-8071-be4cb2bc59c0",
+    "data": [
+      {
+        "text": "master in business administration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df23efde-f505-44b2-983d-566c2fd5fd4c",
+    "data": [
+      {
+        "text": "masters in business administration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ba54366-51d1-42f4-9829-4a15efcea05b",
+    "data": [
+      {
+        "text": "MBA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "d9732c49-0d1d-4751-b4e6-d135f0ddff65",
+    "data": [
+      {
+        "text": "masters in ",
+        "userDefined": false
+      },
+      {
+        "text": "law",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28441505-cda6-46ff-bfe1-047c5e8b3a2b",
+    "data": [
+      {
+        "text": "master in ",
+        "userDefined": false
+      },
+      {
+        "text": "law",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac02e200-3e0d-4033-9170-8601c7c780a2",
+    "data": [
+      {
+        "text": "master of law",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0480d03a-8737-42b7-9063-c4458196d941",
+    "data": [
+      {
+        "text": "masters of law",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b8f5af5-dc90-4eac-b814-6652ac370e02",
+    "data": [
+      {
+        "text": "l.l.m.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3dab738e-1ebe-458e-a8be-387562a335c2",
+    "data": [
+      {
+        "text": "l.l.m",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69189f46-a4c5-4615-97cb-714975f07827",
+    "data": [
+      {
+        "text": "llm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

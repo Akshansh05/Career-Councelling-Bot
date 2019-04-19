@@ -1,0 +1,44 @@
+{
+  "id": "5bef7998-3542-411e-933c-d5ffdda8a335",
+  "parentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering",
+  "auto": true,
+  "contexts": [
+    "PCM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Engineering-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can opt for JEE, VITEE, COMEDK, MIT, BITSAT  for Indian colleges and SAT for foreign colleges."
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551605694,
+  "fallbackIntent": false,
+  "events": []
+}

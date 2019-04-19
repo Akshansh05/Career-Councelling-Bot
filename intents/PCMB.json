@@ -1,0 +1,28 @@
+{
+  "id": "483f39d2-55a2-4731-a922-60d408a97e6b",
+  "name": "PCMB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can either go for PCM or PCB fields."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551603700,
+  "fallbackIntent": false,
+  "events": []
+}

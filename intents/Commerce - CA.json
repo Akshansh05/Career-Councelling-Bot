@@ -1,0 +1,38 @@
+{
+  "id": "130062d5-e620-4798-94cc-3877f350016d",
+  "parentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "rootParentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "name": "Commerce - CA",
+  "auto": true,
+  "contexts": [
+    "Commerce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Commerce.Commerce-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "CA is a good option for higher education in India. Chartered accountancy was established in 1854 in Britain. It is the core activity of the business. In India, the CA course is conducted by the ICAI (Indian Chartered Accountants Institute). For more information about the colleges providing the course, you can visit- https://www.shiksha.com/ca-chartered-accountant-chp"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081951,
+  "fallbackIntent": false,
+  "events": []
+}

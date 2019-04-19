@@ -1,0 +1,34 @@
+{
+  "id": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "name": "PCB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "PCB-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can go for MBBS , Agriculture, BHMS , Ayurvedic, BDS"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551010069,
+  "fallbackIntent": false,
+  "events": []
+}

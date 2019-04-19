@@ -1,0 +1,33 @@
+{
+  "id": "a99eace9-3f88-467b-973e-9d46e3078cf7",
+  "name": "Class12",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Can you tell me your stream?",
+            "What is your Stream in class 12 ?",
+            "What you study in class 12?",
+            "How is class 12 what do you work upon  in class 12 ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081241,
+  "fallbackIntent": false,
+  "events": []
+}

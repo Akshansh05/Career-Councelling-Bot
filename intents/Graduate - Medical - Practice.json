@@ -1,0 +1,38 @@
+{
+  "id": "839b8708-0024-4f35-9099-0fd1bd313801",
+  "parentId": "f2dbcde3-547e-484f-ba6b-11c295a5a54b",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Medical - Practice",
+  "auto": true,
+  "contexts": [
+    "Graduate-Medical-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Medical-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can go for your own practice in clinics ,hospitals or from home ."
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247343113,
+  "fallbackIntent": false,
+  "events": []
+}

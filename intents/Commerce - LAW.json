@@ -1,0 +1,38 @@
+{
+  "id": "84ccc9f0-f4e1-466a-966a-2ecf639a3178",
+  "parentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "rootParentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "name": "Commerce - LAW",
+  "auto": true,
+  "contexts": [
+    "Commerce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Commerce.Commerce-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An LLB, or Bachelor of Laws, is the professional law degree awarded after completing undergraduate education. In most countries, holding an LLB with additional accreditation, allows for the practice of law. For details about colleges providing law you can visit -  https://collegedunia.com/courses/bachelor-of-laws-llb"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081913,
+  "fallbackIntent": false,
+  "events": []
+}

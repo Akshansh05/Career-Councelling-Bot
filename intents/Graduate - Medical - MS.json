@@ -1,0 +1,38 @@
+{
+  "id": "3bb8f7c1-dcd3-4bde-a882-4b8ac755f989",
+  "parentId": "f2dbcde3-547e-484f-ba6b-11c295a5a54b",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Medical - MS",
+  "auto": true,
+  "contexts": [
+    "Graduate-Medical-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Medical-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Master of Surgery in General Surgery or MS General Surgery is a 3-year post graduate program in the surgical field. The minimum eligibility for this is an M.B.B.S. with a minimum one-year internship. Admission to MS General Surgery is based on counseling after clearing entrance exams. NEET and AIIMS are some such entrance exams.For more information about the colleges you can visit -https://collegedunia.com/courses/master-of-surgery-ms-general-surgery"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247349725,
+  "fallbackIntent": false,
+  "events": []
+}

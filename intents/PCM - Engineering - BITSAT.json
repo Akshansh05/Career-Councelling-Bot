@@ -1,0 +1,44 @@
+{
+  "id": "eb66dbca-9b5c-4da8-8d62-8ebfcba2142d",
+  "parentId": "5bef7998-3542-411e-933c-d5ffdda8a335",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering - BITSAT",
+  "auto": true,
+  "contexts": [
+    "PCM-Engineering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Engineering-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Engineering-BITSAT-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In India, BITS was ranked 4th among engineering colleges by India Today in 2017,5th by Outlook India and 7th by The Week.\nInternationally, BITS Pilani was ranked 801-1000 in the QS World University Rankings of 2018. The same rankings ranked it 187 in Asia and 109 among BRICS nations It was ranked 801-1000 in the world by the Times Higher Education World University Rankings of 2018, 201-250 in Asia and 196 among BRICS \u0026 Emerging Economies 2017.\nIn India, BITS Pilani was ranked 19 overall in 2018 by the National Institutional Ranking Framework (NIRF), 17 among universities,17 in the engineering ranking and fifth in India in the pharmacy ranking. For more information about the colleges providing the course, you can visit- https://www.shiksha.com/university/bits-pilani-birla-institute-of-technology-and-science-467"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551086905,
+  "fallbackIntent": false,
+  "events": []
+}

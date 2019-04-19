@@ -1,0 +1,44 @@
+{
+  "id": "cd10a768-7992-44b8-ada3-9c483433009f",
+  "parentId": "466178db-f932-451b-9e0c-dcb91843341f",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Architecture - JEE-Main",
+  "auto": true,
+  "contexts": [
+    "PCM-Architecture-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Architecture-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Architecture-JEE-Main-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Joint Entrance Examination (JEE) is an engineering entrance examination conducted for admission to various engineering colleges in India. It is constituted by two different examinations - JEE Main and the JEE Advanced. The exams are of the objective pattern. It is an entrance test conducted for Engineering and Architecture courses . For more information about the colleges providing the course, you can visit- https://www.toppr.com/bytes/architecture-colleges-through-jee/"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551608338,
+  "fallbackIntent": false,
+  "events": []
+}

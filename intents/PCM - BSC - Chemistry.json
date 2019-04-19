@@ -1,0 +1,38 @@
+{
+  "id": "bb5c6503-ae5c-4078-8c72-7dba6631644a",
+  "parentId": "fe71ee7c-f6e7-42df-b4f9-3e069be4be42",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - BSC - Chemistry",
+  "auto": true,
+  "contexts": [
+    "PCM-BSC-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-BSC-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can check the following link:   https://www.shiksha.com/science/colleges/b-sc-chemistry-colleges-india"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551608559,
+  "fallbackIntent": false,
+  "events": []
+}

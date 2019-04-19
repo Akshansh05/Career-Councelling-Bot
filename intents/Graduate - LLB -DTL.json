@@ -1,0 +1,38 @@
+{
+  "id": "82e120c9-edc9-4825-bf1b-e338ff8515ec",
+  "parentId": "676abab2-344b-4b7b-9715-e95a9df6340d",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - LLB -DTL",
+  "auto": true,
+  "contexts": [
+    "Graduate-LLB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-LLB-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Diploma in Taxation Law (DTL) is a Diploma level Income Tax Commerce diploma course. Taxation Law is a procedure of forcing a financial charge or other imposes upon a taxpayer (a legal entity or an individual) by a state or the functional equivalent of a state such that inability to pay is deserving and punishable by law. The time span of having this diploma is ranging from one academic year to more than it but it varies from institute to institute. For information about colleges providing the course you can visit - https://collegedunia.com/courses/diploma-in-taxation-law-dtl"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244828324,
+  "fallbackIntent": false,
+  "events": []
+}

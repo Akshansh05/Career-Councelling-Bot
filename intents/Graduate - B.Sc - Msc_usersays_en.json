@@ -1,0 +1,107 @@
+[
+  {
+    "id": "93334603-50ee-49e8-8d85-bf85825abb5d",
+    "data": [
+      {
+        "text": "m.s.c",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e7ac61a-87d2-460e-a1d9-288206bb1ce2",
+    "data": [
+      {
+        "text": "m.s.c.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16bc6654-3447-453c-a618-0907bb16d797",
+    "data": [
+      {
+        "text": "M.sc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9b8191f-1fb1-4988-a59b-77a2f72db272",
+    "data": [
+      {
+        "text": "masters in science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9740074f-127f-4856-be20-1911f18e1b6d",
+    "data": [
+      {
+        "text": "master in science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "033a48bf-9042-4f5a-9093-992ce6ee3e8a",
+    "data": [
+      {
+        "text": "masters of science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3605089-81cc-44c9-b17a-ec1b4484b7c6",
+    "data": [
+      {
+        "text": "master of science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23c5c19f-4ac4-4b0e-b015-f83e6dd9085b",
+    "data": [
+      {
+        "text": "msc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bccd5e7a-25a4-413e-8cc2-93e4cefdc436",
+    "data": [
+      {
+        "text": "M.Sc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

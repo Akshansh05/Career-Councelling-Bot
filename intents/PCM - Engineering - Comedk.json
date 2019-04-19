@@ -1,0 +1,44 @@
+{
+  "id": "79e42618-3ac8-4ae8-b662-f10966780376",
+  "parentId": "5bef7998-3542-411e-933c-d5ffdda8a335",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering - Comedk",
+  "auto": true,
+  "contexts": [
+    "PCM-Engineering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Engineering-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Engineering-Comedk-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The consortium of Medical, Engineering and Dental Colleges of Karnataka Entrance Exam conduct own entrance test (COMEDK Entrance Exam) every year for admission to Medical, Dental and Engineering Courses in Professional Colleges within the State of Karnataka in respect of the seats falling to the share of the State Government. The COMEDK Entrance Exam will be conducted in the month of Every Year May. This test will be conducted for admission in COMEDK member institutions only. The score will be valid for 1 year only. For more information about the colleges providing the course, you can visit- https://collegedunia.com/exams/comedk-uget/cutoff"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551086969,
+  "fallbackIntent": false,
+  "events": []
+}

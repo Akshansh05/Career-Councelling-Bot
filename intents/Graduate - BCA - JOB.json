@@ -1,0 +1,38 @@
+{
+  "id": "abdb6b69-3c9b-4ad3-b476-84c12abffeff",
+  "parentId": "ea5c940f-db5b-4a7b-9b96-ed50ced9d3ea",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - BCA - JOB",
+  "auto": true,
+  "contexts": [
+    "Graduate-BCA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BCA-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jobs with proper skill sets can be found on various websites  like-  https://www.naukri.com/bca-jobs                                                                                                        https://www.indeed.co.in/Opening-Bca-jobs"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247303359,
+  "fallbackIntent": false,
+  "events": []
+}

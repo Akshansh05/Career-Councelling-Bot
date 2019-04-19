@@ -1,0 +1,111 @@
+[
+  {
+    "id": "d5e6e504-3cb1-4bf1-9d12-be8eb180703b",
+    "data": [
+      {
+        "text": "l.l.b.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66899a01-33d0-45b5-aa83-1ada62982995",
+    "data": [
+      {
+        "text": "l.l.b",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69b0da41-b55d-4de5-986d-da1f3443acd7",
+    "data": [
+      {
+        "text": "bachelors in ",
+        "userDefined": false
+      },
+      {
+        "text": "law",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e824894-e1b3-4cdf-b2e7-246bd06521be",
+    "data": [
+      {
+        "text": "bachelors of law",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9671a4b3-a3ae-4b28-b414-39974d958de9",
+    "data": [
+      {
+        "text": "bachelor in ",
+        "userDefined": false
+      },
+      {
+        "text": "law",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "586fa4e7-b534-4ec5-bcca-42a4eead739d",
+    "data": [
+      {
+        "text": "Bachelor of law",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c633c40-f00a-4edd-85fe-20bb7accffe0",
+    "data": [
+      {
+        "text": "LLB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af0cc1c0-f18e-4f2a-a6cd-f722091ff975",
+    "data": [
+      {
+        "text": "Lawyer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b190c321-2c9f-43a2-b662-a9b4c9c29370",
+    "data": [
+      {
+        "text": "LAW",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

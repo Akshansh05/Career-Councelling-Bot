@@ -1,0 +1,57 @@
+[
+  {
+    "id": "8fb0c847-cf1d-4ff2-abc4-38250f9eaf59",
+    "data": [
+      {
+        "text": "BBA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53f837d0-4834-40d3-9fda-a50d6501784c",
+    "data": [
+      {
+        "text": "B B A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e96d6eca-18e0-4b54-994a-0005045c04f0",
+    "data": [
+      {
+        "text": "B.B.A.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38242923-b613-4d3f-b54e-722b2580798f",
+    "data": [
+      {
+        "text": "Bachelor of business Administration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1082c93-d171-41c3-8e23-3b54484b0c63",
+    "data": [
+      {
+        "text": "B.B.A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

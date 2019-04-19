@@ -1,0 +1,31 @@
+{
+  "id": "81ea5d50-04f3-4560-b2d5-7fd567651ecc",
+  "name": "Root",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "In which grade are you?",
+            "In which class are you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081227,
+  "fallbackIntent": false,
+  "events": []
+}

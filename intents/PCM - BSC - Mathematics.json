@@ -1,0 +1,46 @@
+{
+  "id": "699ae6e9-b333-4f66-9f73-cd5abf5e6bf1",
+  "parentId": "fe71ee7c-f6e7-42df-b4f9-3e069be4be42",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - BSC - Mathematics",
+  "auto": true,
+  "contexts": [
+    "PCM-BSC-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-BSC-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-BSC-Mathematics-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can check the following link:      https://www.shiksha.com/science/colleges/b-sc-mathematics-colleges-india"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551608440,
+  "fallbackIntent": false,
+  "events": []
+}

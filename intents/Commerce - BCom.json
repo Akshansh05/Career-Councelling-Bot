@@ -1,0 +1,38 @@
+{
+  "id": "fa36edb6-a78f-497e-a428-2c325a4b31aa",
+  "parentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "rootParentId": "77b7fdb4-2004-4521-863a-a54f9ec0183a",
+  "name": "Commerce - BCom",
+  "auto": true,
+  "contexts": [
+    "Commerce-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Commerce.Commerce-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bachelor of Commerce (B Com) is an undergraduate degree in commerce and related subjects.  Under this course, a wide range of managerial skills are provided to the students and their understanding in various subjects of commerce streams like accounting, economics, finance, taxation, management and insurance. For more information about the colleges providing the course, you can visit- https://collegedunia.com/bcom/bangalore-colleges"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081886,
+  "fallbackIntent": false,
+  "events": []
+}

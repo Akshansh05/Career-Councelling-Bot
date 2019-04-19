@@ -1,0 +1,44 @@
+{
+  "id": "761dffe1-ae45-4914-9437-1e06bd530cac",
+  "parentId": "5bef7998-3542-411e-933c-d5ffdda8a335",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering - MIT",
+  "auto": true,
+  "contexts": [
+    "PCM-Engineering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Engineering-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Engineering-MIT-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can go for MIT as Manipal Institute of Technology was ranked 12th among engineering colleges in India by India Today in 2017,[25] 15 among engineering colleges by Outlook India in 2017 and 39 among engineering colleges by the National Institutional Ranking Framework (NIRF) in 2018.]It is recently awarded the prestigious Institute of Eminence(IOE) award 2018 by the Government of India and it is one among the only 2 private institutes to get this prestigious award. For more information about the colleges providing the course, you can visit- https://www.collegepravesh.com/engineering-colleges/mit-manipal/"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551605049,
+  "fallbackIntent": false,
+  "events": []
+}

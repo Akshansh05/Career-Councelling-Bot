@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3ba93d27-b8e9-4640-8047-9e513364e589",
+    "data": [
+      {
+        "text": "Teaching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "daa3bbfb-8d96-43c3-b7e0-867d8685b8ef",
+    "data": [
+      {
+        "text": "Teach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67584ef4-1db8-4fb6-9fd4-354235c2d7cb",
+    "data": [
+      {
+        "text": "Teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

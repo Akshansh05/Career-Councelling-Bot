@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c29b027e-0da7-4972-bc22-e0fa3cf23f8b",
+    "data": [
+      {
+        "text": "B.Ed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cbb7018-7208-43f3-a69d-dbcae02bf500",
+    "data": [
+      {
+        "text": "B.Ed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89120e91-422d-44e4-9ec6-e254158cb0f2",
+    "data": [
+      {
+        "text": "bed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "edec0a42-08e9-4964-a04a-485be89d851e",
+    "data": [
+      {
+        "text": "BEd.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5
+  },
+  {
+    "id": "f88daec0-b01a-4546-ac75-66c49b83e1a2",
+    "data": [
+      {
+        "text": "Bachelor of Education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

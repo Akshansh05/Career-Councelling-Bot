@@ -1,0 +1,38 @@
+{
+  "id": "65b85d9b-22ba-424a-b05e-07d0332ba9e2",
+  "parentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "rootParentId": "ffc65bef-8b4a-4d88-8b3c-f13129d13f44",
+  "name": "PCB -MBBS",
+  "auto": true,
+  "contexts": [
+    "PCB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCB.PCB-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bachelor of Medicine, Bachelor of Surgery (MBBS) is a professional course for which the students are awarded with the degrees in medicine and surgery upon successful completion of the course. The course aims at imparting the quality education and training to students to help contribute to the growing sector of health and medicine.\n For more information about the colleges providing the course, you can visit- https://collegedunia.com/courses/bachelor-of-medicine-bachelor-of-surgery-mbbs"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551081661,
+  "fallbackIntent": false,
+  "events": []
+}

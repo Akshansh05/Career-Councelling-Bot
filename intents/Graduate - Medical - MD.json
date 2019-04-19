@@ -1,0 +1,38 @@
+{
+  "id": "755c93b5-abb1-41eb-953f-a79a4cbbed9d",
+  "parentId": "f2dbcde3-547e-484f-ba6b-11c295a5a54b",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Medical - MD",
+  "auto": true,
+  "contexts": [
+    "Graduate-Medical-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Medical-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "MD General Medicine focuses on studying diagnosing as well as treating common health problems or disorders such as nausea, cold and cough. Subjects covered in the course’s curriculum include Genetics, Social Science, Health Education, General Medicine applied to the Field of Public Health, Occupational Health, Maternal and Child Health Rehabilitation, and Public Health Administration etc.For more information about colleges providing the degree you can visit-https://collegedunia.com/courses/doctorate-of-medicine-md-general-medicine"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247355705,
+  "fallbackIntent": false,
+  "events": []
+}

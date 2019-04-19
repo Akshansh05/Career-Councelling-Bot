@@ -1,0 +1,38 @@
+{
+  "id": "2aab9699-ece5-4799-8722-fb0de7ecb2c6",
+  "parentId": "d6a64115-fe71-48fb-99a4-33e607b34801",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering - JEE - Mains",
+  "auto": true,
+  "contexts": [
+    "PCM-Engineering-JEE-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Engineering-custom.PCM-Engineering-JEE-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "JEE Mains is a pan-India entrance examination, conducted for admission into top NITs (National Institutes of Technology), IIITs (Indian Institutes of Information Technology) and a few other state-funded universities.\nThe JEE Mains is also considered as a qualifying examination for the JEE Advanced. For more information about the colleges accepting JEE Mains Score, you can visit- https://www.shiksha.com/b-tech/jee-main-exam"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551087086,
+  "fallbackIntent": false,
+  "events": []
+}

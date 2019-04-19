@@ -1,0 +1,90 @@
+[
+  {
+    "id": "77bb4a26-8fe1-4d65-8b70-c6a8a5636575",
+    "data": [
+      {
+        "text": "B.D.S.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05f832ea-38c2-4856-a7c5-dd545f554bb8",
+    "data": [
+      {
+        "text": "Dental Medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f1e8deb-f7ef-4288-87c3-383799240a78",
+    "data": [
+      {
+        "text": "Dental Surgery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "460cebc9-135e-465d-a0b4-51e6b5dd5a8b",
+    "data": [
+      {
+        "text": "B.D.S",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15b431b9-031a-434c-af40-77545023e4b6",
+    "data": [
+      {
+        "text": "BDS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "83b16914-f6c3-464a-852c-2ee3305533fe",
+    "data": [
+      {
+        "text": "B D S",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "199ac3bf-dff7-4c40-aef8-f5e0384ce861",
+    "data": [
+      {
+        "text": "Dental",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82cf5439-7fb5-47b1-83f1-e09348ea92db",
+    "data": [
+      {
+        "text": "Bachelor Of Dental Surgery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

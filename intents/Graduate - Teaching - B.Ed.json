@@ -1,0 +1,38 @@
+{
+  "id": "a8863ec1-2e76-4aae-8ee3-14f2691bf24f",
+  "parentId": "f9b7626c-712f-4448-b3f8-829e6db8ef7a",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Teaching - B.Ed",
+  "auto": true,
+  "contexts": [
+    "Graduate-Teaching-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Teaching-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A Bachelor of Education (B.Ed.) is a graduate professional degree which prepares students for work as a teacher in schools, though in some countries additional work must be done in order for the student to be fully qualified to teach.For information about colleges providing the degree you can visit-https://www.shiksha.com/b-ed-chp"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555247387952,
+  "fallbackIntent": false,
+  "events": []
+}

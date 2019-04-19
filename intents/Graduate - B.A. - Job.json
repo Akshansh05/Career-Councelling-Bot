@@ -1,0 +1,38 @@
+{
+  "id": "b385f09c-8e9a-4087-aa82-20adef760447",
+  "parentId": "62b8d730-13a0-4cd6-903a-c0469e534154",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.A. - Job",
+  "auto": true,
+  "contexts": [
+    "Graduate-BA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BA-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jobs with proper skill sets can be found on various websites  like-  https://www.indeed.co.in/BA-jobs                                                                                             https://www.naukari.com/BA-jobs"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244718330,
+  "fallbackIntent": false,
+  "events": []
+}

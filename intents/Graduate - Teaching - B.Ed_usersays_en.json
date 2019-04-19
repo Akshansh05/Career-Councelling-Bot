@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b6974b3c-02ea-4510-b5d5-2dc2b8de598a",
+    "data": [
+      {
+        "text": "b.ed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "caea4d07-7d68-48e8-a0d0-a172c4fe7267",
+    "data": [
+      {
+        "text": "Bachelor of Education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bdc61f9-3702-4008-99c7-1bf635d61a07",
+    "data": [
+      {
+        "text": "Bachelors of Education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5399143c-640c-4539-9477-084094a5121e",
+    "data": [
+      {
+        "text": "bed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "850538bb-3e3c-4506-9c9e-67e1ceb16a11",
+    "data": [
+      {
+        "text": "b.ed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6af0bea7-69a6-4d72-99ab-099091da91e5",
+    "data": [
+      {
+        "text": "b.e.d",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ffc682f-0afa-4210-b855-480dc60d563c",
+    "data": [
+      {
+        "text": "b.e.d.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48d8bda7-9483-4bc0-900d-4785b769cfd0",
+    "data": [
+      {
+        "text": "bed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

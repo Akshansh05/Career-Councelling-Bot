@@ -1,0 +1,38 @@
+{
+  "id": "39f46d17-a9ca-4261-84c2-c5cbd3ad913a",
+  "parentId": "8ea779c1-33ba-4f49-91f0-b02e612a5754",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.Com - MBA",
+  "auto": true,
+  "contexts": [
+    "Graduate-BCom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BCom-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Master of Business Administration (MBA) is a postgraduate degree that is awarded to students who have mastered the study of business. MBA programs are considered to be among the most prestigious ones in the world. Students of MBA programs study the theory and application of business and management principles.  For more information on colleges providing the degree, you can go to -        https://www.mbastudies.com/MBA/"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244895562,
+  "fallbackIntent": false,
+  "events": []
+}

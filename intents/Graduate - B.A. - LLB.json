@@ -1,0 +1,38 @@
+{
+  "id": "418df654-4caf-4bd2-8925-7b27d55ac8b1",
+  "parentId": "62b8d730-13a0-4cd6-903a-c0469e534154",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.A. - LLB",
+  "auto": true,
+  "contexts": [
+    "Graduate-BA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BA-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An LLB, or Bachelor of Laws, is the professional law degree awarded after completing undergraduate education. In most countries, holding an LLB with additional accreditation, allows for the practice of law. For details about colleges providing law you can visit -  https://collegedunia.com/courses/bachelor-of-laws-llb"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244701840,
+  "fallbackIntent": false,
+  "events": []
+}

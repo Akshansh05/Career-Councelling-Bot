@@ -1,0 +1,38 @@
+{
+  "id": "6a020174-9d6d-4c0a-86e7-d4b8f95d1f5a",
+  "parentId": "0cc23592-b65d-40ab-983b-667083e87148",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - Engineering - MTech.",
+  "auto": true,
+  "contexts": [
+    "Graduate-Engineering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-Engineering-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "M. Tech is among the universal accepted post graduate degree program being offered by all top rated universities and colleges. Most of the m. tech courses are of 2 years of duration where the students need to pass through their extensive education in particular field of engineering or technology. For information about colleges providing with the degree you can go to the following website -        https://www.shiksha.com/m-e-m-tech-chp"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1554921504414,
+  "fallbackIntent": false,
+  "events": []
+}

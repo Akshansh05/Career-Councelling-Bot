@@ -1,0 +1,44 @@
+{
+  "id": "505838fc-5172-4e50-853a-9218d540b7ac",
+  "parentId": "5bef7998-3542-411e-933c-d5ffdda8a335",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - Engineering - SAT",
+  "auto": true,
+  "contexts": [
+    "PCM-Engineering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom.PCM-Engineering-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-Engineering-SAT-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "SAT is a standardized test administered by the College Board and is required to be taken by students seeking admission in undergraduate schools. The full form of SAT is Scholastic Assessment Test, which was earlier known as Scholastic Aptitude Test. SAT exam has been developed to evaluate the written, verbal and mathematical skills of the candidates. For more information about the colleges providing the course, you can visit- https://studyabroad.shiksha.com/exams/sat"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551087210,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "e86534b1-1bb5-45c3-841d-e4858c043c07",
+    "data": [
+      {
+        "text": "Economy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6918a13-f0d8-4d2d-95c2-f2345ccab865",
+    "data": [
+      {
+        "text": "BEconomy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e52cc6f-aa9b-4b95-a801-c8f335737ee5",
+    "data": [
+      {
+        "text": "B. economy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c04a9db9-d3c2-4a21-ab9c-6fbe6fd766af",
+    "data": [
+      {
+        "text": "B Econ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97a9b710-3acf-46b0-8180-9a92d3116d03",
+    "data": [
+      {
+        "text": "Bach",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". of Econ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6321b016-f1e1-4818-a806-215e579358ac",
+    "data": [
+      {
+        "text": "Bachelor Of Economy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "693b40b1-5d82-4d1a-beb2-742cd0636548",
+    "data": [
+      {
+        "text": "B Economy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

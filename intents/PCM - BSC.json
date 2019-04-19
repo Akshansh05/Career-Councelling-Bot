@@ -1,0 +1,44 @@
+{
+  "id": "fe71ee7c-f6e7-42df-b4f9-3e069be4be42",
+  "parentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "rootParentId": "21db5999-1ee7-4e98-ba2d-0182a1b211c9",
+  "name": "PCM - BSC",
+  "auto": true,
+  "contexts": [
+    "PCM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PCM.PCM-custom",
+      "affectedContexts": [
+        {
+          "name": "PCM-BSC-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can pursue BSc in Maths, Physics, Chemistry, Biology, Computer Science"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551606338,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "36781b00-ef41-4fef-8c28-5e8501f9d8bb",
+  "parentId": "62b8d730-13a0-4cd6-903a-c0469e534154",
+  "rootParentId": "557770ad-8718-402f-949b-209d5bc18175",
+  "name": "Graduate - B.A. - BEd.",
+  "auto": true,
+  "contexts": [
+    "Graduate-BA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Graduate.Graduate-custom.Graduate-BA-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A Bachelor of Education (B.Ed.) is a graduate professional degree which prepares students for work as a teacher in schools, though in some countries additional work must be done in order for the student to be fully qualified to teach. For Information about colleges providing with the degree you can visit the following link-  https://collegedunia.com/courses/bachelor-of-education-bed"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1555244793065,
+  "fallbackIntent": false,
+  "events": []
+}
