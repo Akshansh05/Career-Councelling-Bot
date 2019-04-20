@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CAREER BOT</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="s3FxAPw94ahpgI6tKvQ4HvQ9bp2bY3SbdMp9bLRetw4" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   <link rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
+  integrity="sha384-OHBBOqpYHNsIqQy8hL1U+8OXf9hH6QRxi0+EODezv82DfnZoV7qoHAZDwMwEJvSw"
+  crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="index.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
+<center><h1 style="color:white" class="animated bounceInLeft">CAREER COUNCELLING BOT WELCOMES YOU</h1></center>
+<center><h2 style="color:white" class="animated bounceInRight">Made By:</h2></center>
+<center><h3 style="color:white" class="animated bounceInLeft">Akanksha Dhancholia----------------------------------------------------------1DS15IS006</h3></center>
+<center><h3 style="color:white" class="animated bounceInLeft">Akshansh Ohm-----------------------------------------------------------------1DS15IS008</h3></center>
+<center><h3 style="color:white" class="animated bounceInLeft">Amisha Singh-----------------------------------------------------------------1DS15IS009</h3></center>
+<script>
+$(function () {
+    var div = document.createElement("div");
+    document.getElementsByTagName('body')[0].appendChild(div);
+    div.outerHTML = "<div id='botDiv' style='height: 65px; position: fixed;float: right;bottom: 0; z-index: 1000; background-color: #fff'><div id='botTitleBar' style='height: 300px; width: 300px; position:fixed; cursor: pointer;'></div><iframe allow='microphone;' width='500px' height='400px' src='https://console.dialogflow.com/api-client/demo/embedded/2673a499-fb99-44e7-9bd6-2947cb840e89'></iframe></div>"; 
+    document.querySelector('body').addEventListener('click', function (e) {
+        e.target.matches = e.target.matches || e.target.msMatchesSelector;
+        if (e.target.matches('#botTitleBar')) { 
+            var botDiv = document.querySelector('#botDiv'); 
+            botDiv.style.height = botDiv.style.height == '400px' ? '65px' : '400px';
+        };
+    });
+}());
+
+
+</script
+</body>
+</html>
